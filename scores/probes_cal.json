@@ -1,0 +1,6886 @@
+{
+  "knowledge": {
+    "0": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "B",
+      "qwen7b": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "1": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "2": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "3": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "4": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "5": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "6": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "C"
+    },
+    "7": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "8": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "9": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "10": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "11": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "12": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "13": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "14": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "15": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "16": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "17": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "D",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "18": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "19": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "20": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "21": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "22": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "23": {
+      "gemma4b": "A",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "24": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "25": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "26": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "27": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "28": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "29": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "30": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "31": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "D",
+      "qwen72b": "C"
+    },
+    "32": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "B",
+      "qwen7b": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "33": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "34": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "35": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "36": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "37": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "38": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "39": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "40": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "41": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "42": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "43": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "44": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "45": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "46": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "47": {
+      "gemma4b": "C",
+      "llama3b": "D",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "48": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "49": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "50": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "51": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "52": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "53": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "54": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "55": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "56": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "57": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "58": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "59": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "60": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "61": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "62": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "63": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "64": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "65": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "66": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "67": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "68": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "69": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "B",
+      "qwen7b": "D",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "70": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "71": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "72": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "73": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "74": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "75": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "76": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "77": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "78": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "79": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "B"
+    },
+    "80": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "81": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "82": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "83": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "84": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "85": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "86": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "87": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "88": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "89": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "90": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "91": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "92": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "93": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "94": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "95": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "96": {
+      "gemma4b": "C",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "97": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "98": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "B",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "99": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "100": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "101": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "102": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "103": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "104": {
+      "gemma4b": "C",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "A",
+      "qwen72b": "B"
+    },
+    "105": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "106": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "107": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "108": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "109": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "110": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "111": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "112": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "113": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "114": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "115": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "116": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "117": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "118": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "119": {
+      "gemma4b": "C",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "120": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "121": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "122": {
+      "gemma4b": "A",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "123": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "124": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "125": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "126": {
+      "gemma4b": "A",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "127": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "128": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "129": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "130": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "131": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "132": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "133": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "134": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "135": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "136": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "137": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "138": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "139": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "140": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "141": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "142": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "143": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "144": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "145": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "146": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "147": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "148": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "149": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "150": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "151": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "152": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "153": {
+      "gemma4b": "A",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "154": {
+      "gemma4b": "A",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "155": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "156": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "157": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "158": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "159": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "160": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "161": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "162": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "163": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "164": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "165": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "166": {
+      "gemma4b": "C",
+      "llama3b": "D",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "167": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "168": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "169": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "170": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "171": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "172": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "173": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "174": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "175": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "176": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "177": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "178": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "179": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "180": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "B",
+      "qwen7b": "C",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "181": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "182": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "183": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "184": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "185": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "186": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "187": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "188": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "189": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "190": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "B",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "191": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "192": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "193": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "194": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "195": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "196": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "197": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "198": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "199": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "200": {
+      "gemma4b": "A",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "201": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "202": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "203": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "204": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "205": {
+      "gemma4b": "A",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "206": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "207": {
+      "gemma4b": "A",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "208": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "209": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "A",
+      "qwen72b": "B"
+    },
+    "210": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "211": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "212": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "213": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "214": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "215": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "A",
+      "qwen72b": "B"
+    },
+    "216": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "217": {
+      "gemma4b": "C",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "218": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "219": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "220": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "221": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "222": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "223": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "224": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "225": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "226": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "227": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "228": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "B",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "229": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "230": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "231": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "232": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "233": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "234": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "235": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "236": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "237": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "238": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "239": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "240": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "241": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "B",
+      "qwen7b": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "242": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "243": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "244": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "245": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "246": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "247": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "248": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "249": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "250": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "251": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "252": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "253": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "254": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "255": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "256": {
+      "gemma4b": "A",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "257": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "258": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "B",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "259": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "260": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "261": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "262": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "263": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "264": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "D",
+      "qwen72b": "C"
+    },
+    "265": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "266": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "267": {
+      "gemma4b": "A",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "268": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "269": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "270": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "271": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "272": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "273": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "274": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "275": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "276": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "277": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "278": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "279": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "280": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "281": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "282": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "283": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "284": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "285": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "286": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "287": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "288": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "289": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "B",
+      "qwen7b": "A",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "290": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "291": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "292": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "293": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "294": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "295": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "296": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "297": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "298": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "299": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "300": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "301": {
+      "gemma4b": "A",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "302": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "303": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "304": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "305": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "306": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "307": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "308": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "309": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "310": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "311": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "312": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "313": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "314": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "315": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "B",
+      "qwen7b": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "316": {
+      "gemma4b": "A",
+      "llama3b": "D",
+      "llama8b": "C",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "317": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "318": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "319": {
+      "gemma4b": "C",
+      "llama3b": "D",
+      "llama8b": "C",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "320": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "321": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "322": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "323": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "324": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "325": {
+      "gemma4b": "C",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "326": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "327": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "328": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "329": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "330": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "331": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "332": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "333": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "334": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "335": {
+      "gemma4b": "B",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "336": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "337": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "338": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "339": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "D",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "340": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "341": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "342": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "343": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "344": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "345": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "346": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "347": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "348": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "349": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "350": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "351": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "352": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "353": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "354": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "355": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "356": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "357": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "358": {
+      "gemma4b": "A",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "359": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "360": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "361": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "362": {
+      "gemma4b": "A",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "363": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "364": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "365": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "366": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "367": {
+      "gemma4b": "B",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "368": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "369": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "370": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "371": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "372": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "373": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "374": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "375": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "376": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "377": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "378": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "379": {
+      "gemma4b": "D",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "380": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "381": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "382": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "383": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "384": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "385": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "386": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "387": {
+      "gemma4b": "A",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "388": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "389": {
+      "gemma4b": "B",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "390": {
+      "gemma4b": "C",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "391": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "392": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "393": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "394": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "395": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "396": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "B",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "397": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "398": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "399": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "400": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "401": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "402": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "403": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "404": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "405": {
+      "gemma4b": "C",
+      "llama3b": "D",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "406": {
+      "gemma4b": "D",
+      "llama3b": "B",
+      "llama8b": "D",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "407": {
+      "gemma4b": "D",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "408": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "409": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "410": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "411": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "412": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "413": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "A",
+      "qwen7b": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "414": {
+      "gemma4b": "A",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "415": {
+      "gemma4b": "C",
+      "llama3b": "A",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "416": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "417": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "418": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "419": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "420": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "421": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "422": {
+      "gemma4b": "B",
+      "llama3b": "B",
+      "llama8b": "B",
+      "qwen7b": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "423": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "424": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "425": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "A",
+      "qwen7b": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "426": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "427": {
+      "gemma4b": "C",
+      "llama3b": "C",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "428": {
+      "gemma4b": "A",
+      "llama3b": "D",
+      "llama8b": "C",
+      "qwen7b": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "429": {
+      "gemma4b": "D",
+      "llama3b": "D",
+      "llama8b": "D",
+      "qwen7b": "C",
+      "llama70b": "D",
+      "qwen72b": "D"
+    }
+  },
+  "stance": {
+    "0": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "1": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "2": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "3": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "4": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "5": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "6": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "7": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "8": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "9": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "10": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "11": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "12": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "13": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "14": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "15": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "16": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "17": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "18": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "19": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "20": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "21": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "22": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "23": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "24": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "25": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "26": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "27": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "28": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "29": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "30": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "31": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "32": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "33": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "34": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "35": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "36": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "37": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "38": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "39": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "40": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "41": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "42": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "43": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "44": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "45": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "46": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "47": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "48": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "49": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "50": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "51": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "52": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "53": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "54": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "55": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "56": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "57": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "58": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "59": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "60": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "61": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "62": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "63": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "64": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "65": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "66": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "67": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "68": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "69": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "70": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "71": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "72": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "73": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "74": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "75": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "76": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "77": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "78": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "79": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "80": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "81": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "82": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "83": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "84": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "85": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "86": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "87": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "88": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "89": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "90": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "91": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "92": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "93": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "94": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "95": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "96": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "97": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "98": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "99": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "100": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "101": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "102": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "103": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "104": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "105": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "106": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "107": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "108": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "109": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "110": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "111": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "112": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "113": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "114": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "115": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "116": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "117": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "118": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "119": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "120": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "121": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "122": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "123": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "124": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "125": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "126": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "127": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "128": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "129": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "130": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "131": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "132": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "133": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "134": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "135": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "136": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "137": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "138": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "139": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "140": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "141": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "142": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "143": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "144": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "145": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "146": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "147": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "148": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "149": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "150": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "151": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "152": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "153": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "154": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "155": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "156": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "157": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "158": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "159": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "160": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "161": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "162": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "163": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "164": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "165": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "166": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "167": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "168": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "169": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "170": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "171": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "172": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "173": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "174": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "175": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "176": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "177": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "178": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "179": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "180": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "181": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "182": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "183": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "184": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "185": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "186": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "187": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "188": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "189": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "190": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "191": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "192": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "193": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "194": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "195": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "196": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "197": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "198": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "199": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "200": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "201": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "202": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "203": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "204": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "205": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "206": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "207": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "208": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "209": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "210": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "211": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "212": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "213": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "214": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "215": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "216": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "217": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "218": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "219": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "220": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "221": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "222": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "223": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "224": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "225": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "226": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "227": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "228": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "229": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "230": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "231": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "232": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "233": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "234": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "235": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "236": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "237": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "238": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "239": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "240": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "241": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "242": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "243": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "244": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "245": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "246": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "247": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "248": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "249": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "250": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "251": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "252": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "253": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "254": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "255": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "256": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "257": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "258": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "259": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "260": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "261": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "262": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "263": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "264": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "265": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "266": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "267": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "268": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "269": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "270": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "271": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "272": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "273": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "274": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "275": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "276": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "277": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "278": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "279": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "280": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "281": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "282": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "283": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "284": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "285": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "286": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "287": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "288": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "289": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "290": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "291": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "292": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "293": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "294": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "295": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "296": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "297": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "298": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "299": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "300": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "301": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "302": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "303": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "304": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "305": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "306": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "307": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "308": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "309": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "310": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "311": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "312": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "313": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "314": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "315": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "316": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "317": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "318": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "319": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "320": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "321": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "322": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "323": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "324": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "325": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "326": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "327": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "328": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "329": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "330": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "331": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "332": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "333": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "334": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "335": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "336": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "337": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "338": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "339": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "340": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "341": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "342": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "343": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "344": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "345": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "346": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "347": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "348": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "349": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "350": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "351": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "352": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "353": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "354": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "355": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "356": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "357": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "358": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "359": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "360": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "361": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "362": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "363": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "364": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "365": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "366": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "367": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "368": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "369": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "370": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "371": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "372": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "373": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "374": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "375": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "376": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "377": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "378": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "379": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "380": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "381": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "382": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "383": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "384": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "385": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "386": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "387": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "388": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "389": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "390": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "391": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "392": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "393": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "394": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "395": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "396": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "397": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "398": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "399": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "400": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "401": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "402": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "403": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "404": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "405": {
+      "gemma4b": "incorrect",
+      "llama3b": "correct",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "406": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "407": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "correct",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "408": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "409": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "410": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "411": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "412": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "413": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "414": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "415": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "416": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "417": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "418": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "419": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "420": {
+      "gemma4b": "correct",
+      "llama3b": "correct",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "421": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "422": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "423": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "424": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "425": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "426": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "427": {
+      "gemma4b": "correct",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "428": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "429": {
+      "gemma4b": "incorrect",
+      "llama3b": "incorrect",
+      "llama8b": "incorrect",
+      "qwen7b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    }
+  }
+}

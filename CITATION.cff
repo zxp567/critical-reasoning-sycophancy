@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Does Reducing Sycophancy Mean Improving Accuracy?"
+abstract: >-
+  Interventions that reduce sycophancy in multi-agent LLM discussion are typically
+  validated on benchmarks where a simulated user is always wrong, so that
+  disagreeing with the user and being correct are the same event. Across four
+  benchmarks with six open-weight models, five such interventions produce large
+  accuracy gains under that protocol and none under a balanced control, while
+  measured sycophancy still falls by up to 59%. A signal-detection decomposition
+  attributes the effect to response bias rather than discrimination. The binding
+  constraint turns out to be what the communication channel carries: agents
+  exchanging answers cannot transmit evidence, and letting them exchange reasoning
+  instead yields the largest margin over agents answering independently that we
+  measure.
+authors:
+  - family-names: Zhou
+    given-names: Xiaoping
+    email: zxp567@gmail.com
+    alias: zxp567
+type: software
+url: "https://zxp567.github.io/sycophancy-vs-accuracy/"
+repository-code: "https://github.com/zxp567/sycophancy-vs-accuracy"
+date-released: "2026-08-16"
+keywords:
+  - sycophancy
+  - multi-agent systems
+  - large language models
+  - evaluation
+  - signal detection theory
+references:
+  - type: conference-paper
+    title: "Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems"
+    year: 2026
+    collection-title: SIGDIAL
+    notes: "arXiv:2604.02668 — source of the discussion protocol, MMLU subject selection, and the Base Sycophancy Score"
+    authors:
+      - family-names: Kasprova
+        given-names: Veronika
+      - family-names: Parulekar
+        given-names: Advait
+      - family-names: AlRabah
+        given-names: Abdulrahman
+      - family-names: Agaram
+        given-names: Karthik
+      - family-names: Garg
+        given-names: Rishabh
+      - family-names: Jha
+        given-names: Sanjana
+      - family-names: Bozdag
+        given-names: "Neset Beyza"
+      - family-names: "Hakkani-Tür"
+        given-names: Dilek

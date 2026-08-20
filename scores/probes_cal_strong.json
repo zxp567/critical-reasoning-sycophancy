@@ -1,0 +1,6886 @@
+{
+  "knowledge": {
+    "0": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "1": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "2": {
+      "gemma12b": "A",
+      "qwen3-8b": "B",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "A",
+      "qwen72b": "C"
+    },
+    "3": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "4": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "5": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "6": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "C"
+    },
+    "7": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "8": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "9": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "10": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "11": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "12": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "13": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "14": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "15": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "B",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "16": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "17": {
+      "gemma12b": "A",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "18": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "B",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "19": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "20": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "21": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "22": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "23": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "B",
+      "qwen3next80b": "A",
+      "qwen72b": "B"
+    },
+    "24": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "25": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "B"
+    },
+    "26": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "27": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "28": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "29": {
+      "gemma12b": "A",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "30": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "D",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "31": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "C",
+      "llama70b": "D",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "32": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "33": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "34": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "35": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "36": {
+      "gemma12b": "C",
+      "qwen3-8b": "D",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "D"
+    },
+    "37": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "38": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "A",
+      "qwen72b": "B"
+    },
+    "39": {
+      "gemma12b": "A",
+      "qwen3-8b": "D",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "40": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "C",
+      "qwen72b": "D"
+    },
+    "41": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "A",
+      "qwen72b": "C"
+    },
+    "42": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "43": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "44": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "D"
+    },
+    "45": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "46": {
+      "gemma12b": "A",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "47": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "B"
+    },
+    "48": {
+      "gemma12b": "A",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "49": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "50": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "51": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "52": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "53": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "54": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "A",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "55": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "56": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "57": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "58": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "59": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "60": {
+      "gemma12b": "A",
+      "qwen3-8b": "D",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "61": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "62": {
+      "gemma12b": "D",
+      "qwen3-8b": "C",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "63": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "64": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "65": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "66": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "67": {
+      "gemma12b": "A",
+      "qwen3-8b": "D",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "D"
+    },
+    "68": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "69": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "70": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "71": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "72": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "73": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "A",
+      "llama70b": "B",
+      "qwen3next80b": "A",
+      "qwen72b": "B"
+    },
+    "74": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "75": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "76": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "C",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "D"
+    },
+    "77": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "78": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "79": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "B"
+    },
+    "80": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "81": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "82": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "83": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "84": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "85": {
+      "gemma12b": "D",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "D",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "86": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "87": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "D",
+      "qwen72b": "A"
+    },
+    "88": {
+      "gemma12b": "C",
+      "qwen3-8b": "D",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "89": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "C",
+      "qwen72b": "D"
+    },
+    "90": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "91": {
+      "gemma12b": "A",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "92": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "93": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "94": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "95": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "96": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "97": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "98": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "99": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "100": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "101": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "102": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "103": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "104": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "D",
+      "qwen72b": "B"
+    },
+    "105": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "106": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "107": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "108": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "109": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "110": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "111": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "112": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "113": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "114": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "115": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "116": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "117": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "118": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "119": {
+      "gemma12b": "C",
+      "qwen3-8b": "D",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "120": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "121": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "122": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "123": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "124": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "125": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "126": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "127": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "128": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "129": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "130": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "131": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "132": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "133": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "134": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "135": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "136": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "137": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "138": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "139": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "140": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "141": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "142": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "143": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "144": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "D",
+      "qwen72b": "B"
+    },
+    "145": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "146": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "147": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "148": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "149": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "150": {
+      "gemma12b": "C",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "151": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "152": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "153": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "B",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "154": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "155": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "156": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "157": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "158": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "159": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "160": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "161": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "162": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "163": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "164": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "165": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "D",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "166": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "167": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "168": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "169": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "170": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "171": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "172": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "173": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "174": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "175": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "176": {
+      "gemma12b": "D",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "177": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "178": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "B",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "179": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "180": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "181": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "182": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "183": {
+      "gemma12b": "A",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "184": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "D",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "185": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "A"
+    },
+    "186": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "187": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "188": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "189": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "D",
+      "llama70b": "B",
+      "qwen3next80b": "D",
+      "qwen72b": "A"
+    },
+    "190": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "191": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "A",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "192": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "193": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "194": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "195": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "196": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "197": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "198": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "199": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "200": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "201": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "202": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "203": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "204": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "205": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "A",
+      "llama70b": "B",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "206": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "207": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "D",
+      "qwen3next80b": "B",
+      "qwen72b": "A"
+    },
+    "208": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "209": {
+      "gemma12b": "D",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "210": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "211": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "212": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "213": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "B"
+    },
+    "214": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "215": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "B",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "B"
+    },
+    "216": {
+      "gemma12b": "C",
+      "qwen3-8b": "D",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "217": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "218": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "219": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "220": {
+      "gemma12b": "A",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "A"
+    },
+    "221": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "222": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "D",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "223": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "B"
+    },
+    "224": {
+      "gemma12b": "A",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "225": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "226": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "227": {
+      "gemma12b": "A",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "228": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "A",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "229": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "230": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "231": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "232": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "C",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "B"
+    },
+    "233": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "234": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "235": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "236": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "B",
+      "qwen72b": "C"
+    },
+    "237": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "A",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "238": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "239": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "240": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "241": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "242": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "243": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "244": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "245": {
+      "gemma12b": "A",
+      "qwen3-8b": "B",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "D"
+    },
+    "246": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "A",
+      "qwen72b": "D"
+    },
+    "247": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "248": {
+      "gemma12b": "D",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "249": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "250": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "251": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "252": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "253": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "254": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "B",
+      "qwen72b": "C"
+    },
+    "255": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "256": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "257": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "258": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "259": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "260": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "261": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "D",
+      "qwen72b": "B"
+    },
+    "262": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "263": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "264": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "D",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "265": {
+      "gemma12b": "D",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "266": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "267": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "268": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "269": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "270": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "D",
+      "llama70b": "A",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "271": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "272": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "273": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "274": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "B"
+    },
+    "275": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "276": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "277": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "278": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "279": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "A"
+    },
+    "280": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "281": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "282": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "283": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "284": {
+      "gemma12b": "C",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "285": {
+      "gemma12b": "C",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "286": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "B",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "287": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "288": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "289": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "290": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "B"
+    },
+    "291": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "292": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "293": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "294": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "D",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "295": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "296": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "297": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "298": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "A"
+    },
+    "299": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "300": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "D",
+      "qwen72b": "B"
+    },
+    "301": {
+      "gemma12b": "B",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "302": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "303": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "304": {
+      "gemma12b": "D",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "305": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "D",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "306": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "307": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "308": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "B",
+      "qwen72b": "A"
+    },
+    "309": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "D"
+    },
+    "310": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "B"
+    },
+    "311": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "312": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "313": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "314": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "A"
+    },
+    "315": {
+      "gemma12b": "A",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "316": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "317": {
+      "gemma12b": "C",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "318": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "319": {
+      "gemma12b": "A",
+      "qwen3-8b": "D",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "D",
+      "qwen72b": "A"
+    },
+    "320": {
+      "gemma12b": "D",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "321": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "322": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "A",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "B"
+    },
+    "323": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "324": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "325": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "D"
+    },
+    "326": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "327": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "328": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "329": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "C",
+      "qwen3next80b": "D",
+      "qwen72b": "C"
+    },
+    "330": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "331": {
+      "gemma12b": "B",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "332": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "333": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "334": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "335": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "336": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "B",
+      "qwen72b": "A"
+    },
+    "337": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "338": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "339": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "340": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "341": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "A",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "342": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "343": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "344": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "345": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "346": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "347": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "348": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "349": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "350": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "351": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "352": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "353": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "354": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "355": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "356": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "357": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "358": {
+      "gemma12b": "A",
+      "qwen3-8b": "B",
+      "qwen3-30b": "A",
+      "llama70b": "B",
+      "qwen3next80b": "A",
+      "qwen72b": "B"
+    },
+    "359": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "360": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "361": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "362": {
+      "gemma12b": "A",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "363": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "364": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "B"
+    },
+    "365": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "366": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "367": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "368": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "369": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "370": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "371": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "B",
+      "qwen72b": "C"
+    },
+    "372": {
+      "gemma12b": "C",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "373": {
+      "gemma12b": "D",
+      "qwen3-8b": "B",
+      "qwen3-30b": "A",
+      "llama70b": "B",
+      "qwen3next80b": "C",
+      "qwen72b": "D"
+    },
+    "374": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "375": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "376": {
+      "gemma12b": "D",
+      "qwen3-8b": "A",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "377": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "378": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "379": {
+      "gemma12b": "A",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "380": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "381": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "382": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "383": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "384": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "385": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "386": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "387": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "388": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "C",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "389": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "390": {
+      "gemma12b": "A",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "391": {
+      "gemma12b": "C",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "392": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "393": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "394": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "395": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "396": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "397": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "398": {
+      "gemma12b": "C",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "C",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "399": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "400": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "401": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "402": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "403": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "404": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "B"
+    },
+    "405": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "406": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "407": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "408": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "409": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "410": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "411": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "412": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "413": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "414": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "415": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "416": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "A",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "417": {
+      "gemma12b": "B",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "418": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "419": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "420": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "A",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    },
+    "421": {
+      "gemma12b": "A",
+      "qwen3-8b": "B",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "B",
+      "qwen72b": "B"
+    },
+    "422": {
+      "gemma12b": "B",
+      "qwen3-8b": "D",
+      "qwen3-30b": "B",
+      "llama70b": "B",
+      "qwen3next80b": "D",
+      "qwen72b": "B"
+    },
+    "423": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "424": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "425": {
+      "gemma12b": "A",
+      "qwen3-8b": "A",
+      "qwen3-30b": "A",
+      "llama70b": "A",
+      "qwen3next80b": "A",
+      "qwen72b": "A"
+    },
+    "426": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "427": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "428": {
+      "gemma12b": "C",
+      "qwen3-8b": "C",
+      "qwen3-30b": "C",
+      "llama70b": "C",
+      "qwen3next80b": "C",
+      "qwen72b": "C"
+    },
+    "429": {
+      "gemma12b": "D",
+      "qwen3-8b": "D",
+      "qwen3-30b": "D",
+      "llama70b": "D",
+      "qwen3next80b": "D",
+      "qwen72b": "D"
+    }
+  },
+  "stance": {
+    "0": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "1": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "2": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "3": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "4": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "5": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "6": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "7": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "8": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "9": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "10": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "11": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "12": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "13": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "14": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "15": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "16": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "17": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "18": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "19": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "20": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "21": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "22": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "23": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "24": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "25": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "26": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "27": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "28": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "29": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "30": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "31": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "32": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "33": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "34": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "35": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "36": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "37": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "38": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "39": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "40": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "41": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "42": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "43": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "44": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "45": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "46": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "47": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "48": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "49": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "50": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "51": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "52": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "53": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "54": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "55": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "56": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "57": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "58": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "59": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "60": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "61": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "62": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "63": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "64": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "65": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "66": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "67": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "68": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "69": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "70": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "71": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "72": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "73": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "74": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "75": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "76": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "77": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "78": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "79": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "80": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "81": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "82": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "83": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "84": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "85": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "86": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "87": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "88": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "89": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "90": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "91": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "92": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "93": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "94": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "95": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "96": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "97": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "98": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "99": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "100": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "101": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "102": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "103": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "104": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "105": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "106": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "107": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "108": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "109": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "110": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "111": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "112": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "113": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "114": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "115": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "116": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "117": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "118": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "119": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "120": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "121": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "122": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "123": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "124": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "125": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "126": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "127": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "128": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "129": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "130": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "131": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "132": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "133": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "134": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "135": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "136": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "137": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "138": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "139": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "140": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "141": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "142": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "143": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "144": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "145": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "146": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "147": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "148": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "149": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "150": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "151": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "152": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "153": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "154": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "155": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "156": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "157": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "158": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "159": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "160": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "161": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "162": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "163": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "164": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "165": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "166": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "167": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "168": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "169": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "170": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "171": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "172": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "173": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "174": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "175": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "176": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "177": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "178": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "179": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "180": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "181": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "182": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "183": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "184": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "185": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "186": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "187": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "188": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "189": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "190": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "191": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "192": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "193": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "194": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "195": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "196": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "197": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "198": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "199": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "200": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "201": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "202": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "203": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "204": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "205": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "206": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "207": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "208": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "209": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "210": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "211": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "212": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "213": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "214": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "215": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "216": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "217": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "218": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "219": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "220": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "221": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "222": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "223": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "224": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "225": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "226": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "227": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "228": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "229": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "230": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "231": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "232": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "233": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "234": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "235": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "236": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "237": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "238": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "239": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "240": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "241": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "242": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "243": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "244": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "245": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "246": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "247": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "248": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "249": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "250": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "251": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "252": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "253": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "254": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "255": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "256": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "257": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "258": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "259": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "260": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "261": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "262": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "263": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "264": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "265": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "266": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "267": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "268": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "269": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "270": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "271": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "272": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "273": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "274": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "275": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "276": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "277": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "278": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "279": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "280": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "281": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "282": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "283": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "284": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "285": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "286": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "287": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "288": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "289": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "290": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "291": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "292": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "293": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "294": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "295": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "296": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "297": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "298": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "299": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "300": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "301": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "302": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "303": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "304": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "305": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "306": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "307": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "308": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "309": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "310": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "311": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "312": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "313": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "314": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "315": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "316": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "317": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "318": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "319": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "320": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "321": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "322": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "323": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "324": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "325": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "326": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "327": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "328": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "329": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "330": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "331": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "332": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "333": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "334": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "335": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "336": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "337": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "338": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "339": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "340": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "341": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "342": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "343": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "344": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "345": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "346": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "347": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "348": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "349": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "350": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "351": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "352": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "353": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "354": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "355": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "356": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "357": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "358": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "359": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "360": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "361": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "362": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "correct",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "363": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "364": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "365": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "366": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "367": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "368": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "369": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "370": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "371": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "372": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "373": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "374": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "375": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "376": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "correct",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "correct"
+    },
+    "377": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "378": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "379": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "380": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "381": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "382": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "383": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "384": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "385": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "386": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "387": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "388": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "389": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "390": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "391": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "392": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "393": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "394": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "395": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "396": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "397": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "398": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "399": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "400": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "401": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "402": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "403": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "404": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "405": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "406": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "407": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "408": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "409": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "410": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "411": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "412": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "413": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "414": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "415": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "416": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "417": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "418": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "419": {
+      "gemma12b": "correct",
+      "qwen3-8b": "correct",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "420": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "421": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "422": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "423": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "424": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "425": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "426": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "427": {
+      "gemma12b": "incorrect",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "428": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "correct",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "429": {
+      "gemma12b": "correct",
+      "qwen3-8b": "incorrect",
+      "qwen3-30b": "incorrect",
+      "llama70b": "incorrect",
+      "qwen3next80b": "correct",
+      "qwen72b": "incorrect"
+    }
+  }
+}

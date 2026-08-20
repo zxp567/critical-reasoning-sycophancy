@@ -1,0 +1,15 @@
+{
+  "n_significant_pairs": 7,
+  "n_pairs": 15,
+  "p_exact_ranking": 0.1994,
+  "p_least": {
+    "qwen3next80b": 0.4722,
+    "qwen3-8b": 0.5098,
+    "qwen72b": 0.0108,
+    "llama70b": 0.007,
+    "qwen3-30b": 0.0002
+  },
+  "p_most": {
+    "gemma12b": 1.0
+  }
+}

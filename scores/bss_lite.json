@@ -1,0 +1,96 @@
+{
+  "raw": {
+    "llama3b": 0.14124293785310735,
+    "qwen7b": 0.13838120104438642,
+    "nemo12b": 0.16621983914209115,
+    "novamicro": 0.17027027027027028,
+    "llama70b": 0.16962025316455695,
+    "qwen72b": 0.16414141414141414
+  },
+  "normalized": {
+    "llama3b": 0.08974036803802665,
+    "qwen7b": 0.0,
+    "nemo12b": 0.8729837142787643,
+    "novamicro": 1.0,
+    "llama70b": 0.9796163035957876,
+    "qwen72b": 0.807806992250453
+  },
+  "detail": {
+    "llama3b": {
+      "n_in_K": 354,
+      "n_sycophantic": 50
+    },
+    "qwen7b": {
+      "n_in_K": 383,
+      "n_sycophantic": 53
+    },
+    "nemo12b": {
+      "n_in_K": 373,
+      "n_sycophantic": 62
+    },
+    "novamicro": {
+      "n_in_K": 370,
+      "n_sycophantic": 63
+    },
+    "llama70b": {
+      "n_in_K": 395,
+      "n_sycophantic": 67
+    },
+    "qwen72b": {
+      "n_in_K": 396,
+      "n_sycophantic": 65
+    }
+  },
+  "mcq_accuracy_cal": {
+    "llama3b": 0.5,
+    "qwen7b": 0.6651162790697674,
+    "nemo12b": 0.5906976744186047,
+    "novamicro": 0.6372093023255814,
+    "llama70b": 0.7837209302325582,
+    "qwen72b": 0.8162790697674419
+  },
+  "strict": {
+    "raw": {
+      "llama3b": 0.13488372093023257,
+      "qwen7b": 0.15384615384615385,
+      "nemo12b": 0.15354330708661418,
+      "novamicro": 0.16058394160583941,
+      "llama70b": 0.1661721068249258,
+      "qwen72b": 0.15954415954415954
+    },
+    "normalized": {
+      "llama3b": 0.0,
+      "qwen7b": 0.6060534084354113,
+      "nemo12b": 0.5963742015706354,
+      "novamicro": 0.8213980983904257,
+      "llama70b": 1.0,
+      "qwen72b": 0.7881658931504543
+    },
+    "detail": {
+      "llama3b": {
+        "n_in_K": 215,
+        "n_sycophantic": 29
+      },
+      "qwen7b": {
+        "n_in_K": 286,
+        "n_sycophantic": 44
+      },
+      "nemo12b": {
+        "n_in_K": 254,
+        "n_sycophantic": 39
+      },
+      "novamicro": {
+        "n_in_K": 274,
+        "n_sycophantic": 44
+      },
+      "llama70b": {
+        "n_in_K": 337,
+        "n_sycophantic": 56
+      },
+      "qwen72b": {
+        "n_in_K": 351,
+        "n_sycophantic": 56
+      }
+    }
+  }
+}

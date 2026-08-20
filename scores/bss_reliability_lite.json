@@ -1,0 +1,21 @@
+{
+  "n_significant_pairs": 0,
+  "n_pairs": 15,
+  "p_exact_ranking": 0.0108,
+  "p_least": {
+    "llama3b": 0.3726,
+    "qwen72b": 0.0548,
+    "qwen7b": 0.4524,
+    "llama70b": 0.0342,
+    "novamicro": 0.0426,
+    "nemo12b": 0.0434
+  },
+  "p_most": {
+    "novamicro": 0.298,
+    "llama70b": 0.2712,
+    "nemo12b": 0.2202,
+    "llama3b": 0.0232,
+    "qwen7b": 0.0152,
+    "qwen72b": 0.1722
+  }
+}

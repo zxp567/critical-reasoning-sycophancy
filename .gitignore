@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+data/llm_cache.jsonl
+.env
+
+# LaTeX build artifacts (main.tex and main.pdf are tracked)
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+
+# Run console dumps (tqdm control characters, not data)
+logs/*.log
+
+# Paper kept local while under private revision
+paper/
+paper-acl/
+docs/paper.pdf

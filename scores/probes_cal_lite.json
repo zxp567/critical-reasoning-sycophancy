@@ -1,0 +1,6886 @@
+{
+  "knowledge": {
+    "0": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "1": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "2": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "3": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "4": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "5": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "6": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "D",
+      "qwen72b": "C"
+    },
+    "7": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "8": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "9": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "10": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "11": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "12": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "13": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "14": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "15": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "16": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "17": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "18": {
+      "llama3b": "B",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "19": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "20": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "21": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "22": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "23": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "24": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "25": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "26": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "27": {
+      "llama3b": "A",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "28": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "29": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "30": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "31": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "D",
+      "qwen72b": "C"
+    },
+    "32": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "B",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "33": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "34": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "35": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "36": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "37": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "38": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "39": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "40": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "41": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "42": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "D",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "43": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "44": {
+      "llama3b": "A",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "45": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "46": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "47": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "48": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "49": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "50": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "51": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "52": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "53": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "B",
+      "novamicro": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "54": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "55": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "56": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "57": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "58": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "59": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "60": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "61": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "62": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "63": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "64": {
+      "llama3b": "B",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "65": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "66": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "67": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "68": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "69": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "70": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "71": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "72": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "73": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "74": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "75": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "76": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "77": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "78": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "79": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "B"
+    },
+    "80": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "81": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "82": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "83": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "84": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "85": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "86": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "87": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "88": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "89": {
+      "llama3b": "A",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "90": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "91": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "92": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "93": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "94": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "B",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "95": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "96": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "97": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "98": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "99": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "100": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "101": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "102": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "103": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "104": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "B"
+    },
+    "105": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "106": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "107": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "108": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "109": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "110": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "111": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "112": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "113": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "114": {
+      "llama3b": "D",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "115": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "116": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "117": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "118": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "119": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "120": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "121": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "122": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "123": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "124": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "125": {
+      "llama3b": "A",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "126": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "127": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "128": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "129": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "130": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "131": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "132": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "133": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "134": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "135": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "136": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "137": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "138": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "139": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "140": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "141": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "142": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "143": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "144": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "145": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "146": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "147": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "148": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "149": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "150": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "151": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "152": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "153": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "154": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "155": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "156": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "157": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "158": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "159": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "160": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "161": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "162": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "163": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "164": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "165": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "166": {
+      "llama3b": "D",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "167": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "168": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "169": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "170": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "171": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "172": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "173": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "174": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "175": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "176": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "177": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "178": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "179": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "180": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "181": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "182": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "183": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "184": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "185": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "186": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "187": {
+      "llama3b": "B",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "188": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "189": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "190": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "191": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "192": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "193": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "194": {
+      "llama3b": "B",
+      "qwen7b": "A",
+      "nemo12b": "B",
+      "novamicro": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "195": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "196": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "197": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "198": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "199": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "200": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "201": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "202": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "203": {
+      "llama3b": "A",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "204": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "205": {
+      "llama3b": "B",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "206": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "207": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "208": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "209": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "A",
+      "qwen72b": "B"
+    },
+    "210": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "211": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "212": {
+      "llama3b": "A",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "213": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "214": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "215": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "B"
+    },
+    "216": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "217": {
+      "llama3b": "D",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "218": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "219": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "220": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "221": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "222": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "223": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "224": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "225": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "226": {
+      "llama3b": "A",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "227": {
+      "llama3b": "B",
+      "qwen7b": "A",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "228": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "229": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "230": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "231": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "232": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "233": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "D",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "234": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "235": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "236": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "237": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "D",
+      "novamicro": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "238": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "239": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "240": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "241": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "242": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "243": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "D",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "244": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "245": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "246": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "247": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "248": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "249": {
+      "llama3b": "A",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "250": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "251": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "252": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "253": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "254": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "255": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "256": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "257": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "258": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "259": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "260": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "261": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "262": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "263": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "264": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "D",
+      "novamicro": "B",
+      "llama70b": "D",
+      "qwen72b": "C"
+    },
+    "265": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "266": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "267": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "268": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "269": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "270": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "271": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "272": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "273": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "274": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "275": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "276": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "B",
+      "qwen72b": "C"
+    },
+    "277": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "278": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "279": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "A"
+    },
+    "280": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "281": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "282": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "283": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "284": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "285": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "286": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "D",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "287": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "288": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "289": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "290": {
+      "llama3b": "B",
+      "qwen7b": "A",
+      "nemo12b": "B",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "291": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "292": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "293": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "294": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "295": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "296": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "297": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "298": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "299": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "300": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "301": {
+      "llama3b": "B",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "302": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "303": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "304": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "305": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "306": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "307": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "308": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "309": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "310": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "311": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "312": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "313": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "314": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "A"
+    },
+    "315": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "316": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "317": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "318": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "319": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "320": {
+      "llama3b": "D",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "321": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "322": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "323": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "324": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "325": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "326": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "327": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "328": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "329": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "330": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "331": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "332": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "333": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "334": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "335": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "336": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "337": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "338": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "339": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "340": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "A"
+    },
+    "341": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "D"
+    },
+    "342": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "343": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "344": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "345": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "346": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "347": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "348": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "349": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "350": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "351": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "352": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "353": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "354": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "355": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "356": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "357": {
+      "llama3b": "D",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "358": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "359": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "360": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "361": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "362": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "363": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "364": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "365": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "366": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "367": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "368": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "369": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "370": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "371": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "372": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "373": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "D"
+    },
+    "374": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "375": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "376": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "377": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "378": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "379": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "D",
+      "novamicro": "A",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "380": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "381": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "382": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "383": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "384": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "385": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "386": {
+      "llama3b": "A",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "387": {
+      "llama3b": "B",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "388": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "D"
+    },
+    "389": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "390": {
+      "llama3b": "D",
+      "qwen7b": "A",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "391": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "392": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "393": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "394": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "395": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "396": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "397": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "398": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "D",
+      "llama70b": "C",
+      "qwen72b": "B"
+    },
+    "399": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "400": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "401": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "402": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "403": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "404": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "B"
+    },
+    "405": {
+      "llama3b": "D",
+      "qwen7b": "C",
+      "nemo12b": "A",
+      "novamicro": "C",
+      "llama70b": "A",
+      "qwen72b": "C"
+    },
+    "406": {
+      "llama3b": "B",
+      "qwen7b": "C",
+      "nemo12b": "D",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "407": {
+      "llama3b": "C",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "408": {
+      "llama3b": "C",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "409": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "410": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "411": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "A",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "412": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "413": {
+      "llama3b": "B",
+      "qwen7b": "D",
+      "nemo12b": "A",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "414": {
+      "llama3b": "A",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "415": {
+      "llama3b": "A",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "416": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "B",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "417": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "418": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "419": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "420": {
+      "llama3b": "D",
+      "qwen7b": "D",
+      "nemo12b": "D",
+      "novamicro": "D",
+      "llama70b": "D",
+      "qwen72b": "D"
+    },
+    "421": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "B",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "422": {
+      "llama3b": "B",
+      "qwen7b": "B",
+      "nemo12b": "B",
+      "novamicro": "D",
+      "llama70b": "B",
+      "qwen72b": "B"
+    },
+    "423": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "424": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "425": {
+      "llama3b": "C",
+      "qwen7b": "A",
+      "nemo12b": "A",
+      "novamicro": "A",
+      "llama70b": "A",
+      "qwen72b": "A"
+    },
+    "426": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "427": {
+      "llama3b": "C",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "428": {
+      "llama3b": "D",
+      "qwen7b": "C",
+      "nemo12b": "C",
+      "novamicro": "C",
+      "llama70b": "C",
+      "qwen72b": "C"
+    },
+    "429": {
+      "llama3b": "D",
+      "qwen7b": "C",
+      "nemo12b": "D",
+      "novamicro": "C",
+      "llama70b": "D",
+      "qwen72b": "D"
+    }
+  },
+  "stance": {
+    "0": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "1": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "2": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "3": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "4": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "5": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "6": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "7": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "8": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "9": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "10": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "11": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "12": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "13": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "14": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "15": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "16": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "17": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "18": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "19": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "20": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "21": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "22": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "23": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "24": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "25": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "26": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "27": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "28": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "29": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "30": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "31": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "32": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "33": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "34": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "35": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "36": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "37": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "38": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "39": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "40": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "41": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "42": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "43": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "44": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "45": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "46": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "47": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "48": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "49": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "50": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "51": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "52": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "53": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "54": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "55": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "56": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "57": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "58": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "59": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "60": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "61": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "62": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "63": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "64": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "65": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "66": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "67": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "68": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "69": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "70": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "71": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "72": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "73": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "74": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "75": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "76": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "77": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "78": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "79": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "80": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "81": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "82": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "83": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "84": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "85": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "86": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "87": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "88": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "89": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "90": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "91": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "92": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "93": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "94": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "95": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "96": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "97": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "98": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "99": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "100": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "101": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "102": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "103": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "104": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "105": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "106": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "107": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "108": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "109": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "110": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "111": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "112": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "113": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "114": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "115": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "116": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "117": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "118": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "119": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "120": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "121": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "122": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "123": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "124": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "125": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "126": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "127": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "128": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "129": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "130": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "131": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "132": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "133": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "134": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "135": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "136": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "137": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "138": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "139": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "140": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "141": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "142": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "143": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "144": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "145": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "146": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "147": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "148": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "149": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "150": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "151": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "152": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "153": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "154": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "155": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "156": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "157": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "158": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "159": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "160": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "161": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "162": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "163": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "164": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "165": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "166": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "167": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "168": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "169": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "170": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "171": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "172": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "173": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "174": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "175": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "176": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "177": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "178": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "179": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "180": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "181": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "182": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "183": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "184": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "185": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "186": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "187": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "188": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "189": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "190": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "191": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "192": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "193": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "194": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "195": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "196": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "197": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "198": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "199": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "200": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "201": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "202": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "203": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "204": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "205": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "206": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "207": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "208": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "209": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "210": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "211": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "212": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "213": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "214": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "215": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "216": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "217": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "218": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "219": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "220": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "221": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "222": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "223": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "224": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "225": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "226": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "227": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "228": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "229": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "230": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "231": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "232": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "233": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "234": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "235": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "236": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "237": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "238": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "239": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "240": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "241": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "242": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "243": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "244": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "245": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "246": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "247": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "248": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "249": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "250": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "251": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "252": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "253": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "254": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "255": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "256": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "257": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "258": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "259": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "260": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "261": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "262": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "263": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "264": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "265": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "266": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "267": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "268": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "269": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "270": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "271": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "272": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "273": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "274": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "275": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "276": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "277": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "278": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "279": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "280": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "281": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "282": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "283": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "284": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "285": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "286": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "287": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "288": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "289": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "290": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "291": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "292": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "293": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "294": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "295": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "296": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "297": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "298": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "299": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "300": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "301": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "302": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "303": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "304": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "305": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "306": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "307": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "308": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "309": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "310": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "311": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "312": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "313": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "314": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "315": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "316": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "317": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "318": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "319": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "320": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "321": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "322": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "323": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "324": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "325": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "326": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "327": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "328": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "329": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "330": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "331": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "332": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "333": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "334": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "335": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "336": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "337": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "338": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "339": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "340": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "341": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "342": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "343": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "344": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "345": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "346": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "347": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "348": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "349": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "350": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "351": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "352": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "353": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "354": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "355": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "356": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "357": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "358": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "359": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "correct"
+    },
+    "360": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "361": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "362": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "363": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "364": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "365": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "366": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "367": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "368": {
+      "llama3b": "correct",
+      "qwen7b": "correct",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "369": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "370": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "371": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "372": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "373": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "374": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "375": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "376": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "377": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "378": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "379": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "380": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "381": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "382": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "383": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "384": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "385": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "386": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "387": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "388": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "389": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "390": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "391": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "392": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "393": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "394": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "395": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "396": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "397": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "398": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "399": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "400": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "401": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "402": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "403": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "404": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "405": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "correct"
+    },
+    "406": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "407": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "408": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "409": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "410": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "411": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "412": {
+      "llama3b": "incorrect",
+      "qwen7b": "correct",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "413": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "414": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "415": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "416": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "417": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "418": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "419": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "420": {
+      "llama3b": "correct",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "421": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "422": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "423": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "correct",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "424": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "425": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "426": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "427": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    },
+    "428": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "correct",
+      "novamicro": "correct",
+      "llama70b": "correct",
+      "qwen72b": "incorrect"
+    },
+    "429": {
+      "llama3b": "incorrect",
+      "qwen7b": "incorrect",
+      "nemo12b": "incorrect",
+      "novamicro": "incorrect",
+      "llama70b": "incorrect",
+      "qwen72b": "incorrect"
+    }
+  }
+}

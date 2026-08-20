@@ -1,0 +1,96 @@
+{
+  "raw": {
+    "gemma12b": 0.34974093264248707,
+    "qwen3-8b": 0.12376237623762376,
+    "qwen3-30b": 0.19597989949748743,
+    "llama70b": 0.16962025316455695,
+    "qwen3next80b": 0.125,
+    "qwen72b": 0.16414141414141414
+  },
+  "normalized": {
+    "gemma12b": 1.0,
+    "qwen3-8b": 0.0,
+    "qwen3-30b": 0.31957688556288816,
+    "llama70b": 0.2029302145145763,
+    "qwen3next80b": 0.005476730987514193,
+    "qwen72b": 0.17868526353202857
+  },
+  "detail": {
+    "gemma12b": {
+      "n_in_K": 386,
+      "n_sycophantic": 135
+    },
+    "qwen3-8b": {
+      "n_in_K": 404,
+      "n_sycophantic": 50
+    },
+    "qwen3-30b": {
+      "n_in_K": 398,
+      "n_sycophantic": 78
+    },
+    "llama70b": {
+      "n_in_K": 395,
+      "n_sycophantic": 67
+    },
+    "qwen3next80b": {
+      "n_in_K": 400,
+      "n_sycophantic": 50
+    },
+    "qwen72b": {
+      "n_in_K": 396,
+      "n_sycophantic": 65
+    }
+  },
+  "mcq_accuracy_cal": {
+    "gemma12b": 0.6906976744186046,
+    "qwen3-8b": 0.8093023255813954,
+    "qwen3-30b": 0.7976744186046512,
+    "llama70b": 0.7837209302325582,
+    "qwen3next80b": 0.8093023255813954,
+    "qwen72b": 0.8162790697674419
+  },
+  "strict": {
+    "raw": {
+      "gemma12b": 0.32996632996632996,
+      "qwen3-8b": 0.10057471264367816,
+      "qwen3-30b": 0.18075801749271136,
+      "llama70b": 0.1661721068249258,
+      "qwen3next80b": 0.1206896551724138,
+      "qwen72b": 0.15954415954415954
+    },
+    "normalized": {
+      "gemma12b": 1.0,
+      "qwen3-8b": 0.0,
+      "qwen3-30b": 0.349547667804491,
+      "llama70b": 0.28596247302699535,
+      "qwen3next80b": 0.08768821966341897,
+      "qwen72b": 0.25706888328677524
+    },
+    "detail": {
+      "gemma12b": {
+        "n_in_K": 297,
+        "n_sycophantic": 98
+      },
+      "qwen3-8b": {
+        "n_in_K": 348,
+        "n_sycophantic": 35
+      },
+      "qwen3-30b": {
+        "n_in_K": 343,
+        "n_sycophantic": 62
+      },
+      "llama70b": {
+        "n_in_K": 337,
+        "n_sycophantic": 56
+      },
+      "qwen3next80b": {
+        "n_in_K": 348,
+        "n_sycophantic": 42
+      },
+      "qwen72b": {
+        "n_in_K": 351,
+        "n_sycophantic": 56
+      }
+    }
+  }
+}

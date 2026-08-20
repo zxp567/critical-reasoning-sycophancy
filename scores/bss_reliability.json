@@ -1,0 +1,21 @@
+{
+  "n_significant_pairs": 0,
+  "n_pairs": 15,
+  "p_exact_ranking": 0.0234,
+  "p_least": {
+    "llama70b": 0.0228,
+    "qwen7b": 0.3946,
+    "qwen72b": 0.0438,
+    "llama3b": 0.3322,
+    "llama8b": 0.193,
+    "gemma4b": 0.0136
+  },
+  "p_most": {
+    "qwen72b": 0.1692,
+    "gemma4b": 0.4784,
+    "llama70b": 0.2772,
+    "llama3b": 0.0184,
+    "qwen7b": 0.0106,
+    "llama8b": 0.0462
+  }
+}
